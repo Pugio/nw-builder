@@ -62,7 +62,7 @@
     "rimraf": "^2.5.2",
     "semver": "^2.3.2",
     "simple-glob": "~0.1.0",
-    "tar-fs": "^1.13.0",
+    "tar-fs": "^1.15.1",
     "temp": "~0.7.0",
     "update-notifier": "^1.0.2",
     "winresourcer": "^0.9.0"
